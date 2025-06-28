@@ -42,6 +42,17 @@ This project demonstrates the use of **AWS Lambda** and **Boto3 (Python 3.13)** 
    - Please refer "lambda_function.py"
 ---
 
+##  ScreenShots
+
+| Description                       | Screenshot                          |
+|----------------------------------|--------------------------------------|
+| EC2 Tags_Auto_Start            | ![](Screenshots/EC2 Instances with tags_Auto_Start.png) |
+| EC2 Tags_Auto_Stop              | ![](ScreenShots/EC2 Instances with tags_Auto_Stop.png) |
+| IAM Role permissions             | ![](ScreenShots/IAM Role permissions.png) |
+| instance state transitions| ![](ScreenShots/instance state transitions.png) |
+| Lambda Function            | ![](ScreenShots/Lambda Function.png) |
+| Manual test                | ![](ScreenShots/Manual test.png) |
+
 # Testing and Output
 
 - Created a test event in Lambda and invoked it manually.
