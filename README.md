@@ -44,14 +44,16 @@ This project demonstrates the use of **AWS Lambda** and **Boto3 (Python 3.13)** 
 
 ##  ScreenShots
 
-| Description                       | Screenshot                          |
-|----------------------------------|--------------------------------------|
-| EC2 Tags_Auto_Start            | ![](Screenshots/EC2 Instances with tags_Auto_Start.png) |
-| EC2 Tags_Auto_Stop              | ![](ScreenShots/EC2 Instances with tags_Auto_Stop.png) |
-| IAM Role permissions             | ![](ScreenShots/IAM Role permissions.png) |
-| instance state transitions| ![](ScreenShots/instance state transitions.png) |
-| Lambda Function            | ![](ScreenShots/Lambda Function.png) |
-| Manual test                | ![](ScreenShots/Manual test.png) |
+## 📸 ScreenShots
+
+| Description                | Screenshot |
+|---------------------------|------------|
+| EC2 Tags - Auto Start     | ![](ScreenShots/EC2%20Instances%20with%20tags_Auto_Start.png) |
+| EC2 Tags - Auto Stop      | ![](ScreenShots/EC2%20Instances%20with%20tags_Auto_Stop.png)  |
+| IAM Role Permissions      | ![](ScreenShots/IAM%20Role%20permissions.png)                 |
+| Instance State Transitions| ![](ScreenShots/instance%20state%20transitions.png)          |
+| Lambda Function           | ![](ScreenShots/Lambda%20Function.png)                       |
+| Manual Test               | ![](ScreenShots/Manual%20test.png)                           |
 
 # Testing and Output
 
